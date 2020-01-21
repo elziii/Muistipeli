@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\bin\Debug\Muistipeli.exe.config
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\bin\Debug\Muistipeli.exe
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\bin\Debug\Muistipeli.pdb
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Form1.resources
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Properties.Resources.resources
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.exe
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.pdb
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Form2.resources
+C:\Users\USER\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Form3.resources
